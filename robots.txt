@@ -1,0 +1,56 @@
+# Notice: Collection of data on Ardenov through automated means is
+# prohibited unless you have express written permission and specified below
+# and may only be conducted for the limited purpose contained in said permission.
+
+User-agent: DuckDuckBot
+Disallow: /release-notes/
+Disallow: /categories/release-note*
+Disallow: /tags/release-note*
+Disallow: /id/release-notes/
+Disallow: /id/categories/release-note*
+Disallow: /id/tags/release-note*
+
+User-agent: Googlebot
+Disallow: /release-notes/
+Disallow: /categories/release-note*
+Disallow: /tags/release-note*
+Disallow: /id/release-notes/
+Disallow: /id/categories/release-note*
+Disallow: /id/tags/release-note*
+
+User-agent: bingbot
+Disallow: /release-notes/
+Disallow: /categories/release-note*
+Disallow: /tags/release-note*
+Disallow: /id/release-notes/
+Disallow: /id/categories/release-note*
+Disallow: /id/tags/release-note*
+
+User-agent: Slurp
+Disallow: /release-notes/
+Disallow: /categories/release-note*
+Disallow: /tags/release-note*
+Disallow: /id/release-notes/
+Disallow: /id/categories/release-note*
+Disallow: /id/tags/release-note*
+
+User-agent: Baiduspider
+Disallow: /release-notes/
+Disallow: /categories/release-note*
+Disallow: /tags/release-note*
+Disallow: /id/release-notes/
+Disallow: /id/categories/release-note*
+Disallow: /id/tags/release-note*
+
+User-agent: Yandex
+Disallow: /release-notes/
+Disallow: /categories/release-note*
+Disallow: /tags/release-note*
+Disallow: /id/release-notes/
+Disallow: /id/categories/release-note*
+Disallow: /id/tags/release-note*
+
+User-agent: *
+Disallow: /
+
+Sitemap: https://blog.ardenov.com/sitemap.xml

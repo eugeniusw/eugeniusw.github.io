@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",(function(){document.querySelectorAll(".a_238 img").forEach((function(t){var e=t.getAttribute("alt");if(""!==e){var n=document.createElement("p");n.textContent=e,n.classList.add("a_458"),n.setAttribute("aria-hidden","true"),t.parentNode.insertBefore(n,t.nextSibling)}}))}));
