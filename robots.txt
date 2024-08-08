@@ -53,4 +53,4 @@ Disallow: /id/tags/release-note*
 User-agent: *
 Disallow: /
 
-Sitemap: https://blog.ardenov.com/sitemap.xml
+Sitemap: https://eugeniusw.github.io/sitemap.xml
