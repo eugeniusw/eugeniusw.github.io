@@ -6,7 +6,7 @@ Welcome to the Ardenov Blog project! This platform is designed with the primary 
 
 ## Visit the Site
 
-Explore the site at [https://blog.ardenov.com](https://blog.example.com) or the mirror/archive at [https://eugeniusw.github.io](https://eugeniusw.github.io). 
+Explore the site at [https://blog.ardenov.com](https://blog.ardenov.com) or the mirror/archive at [https://eugeniusw.github.io](https://eugeniusw.github.io). 
 
 ## Features
 
