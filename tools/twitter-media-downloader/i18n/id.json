@@ -1,0 +1,8 @@
+{
+    "error__loading_video": "Gagal memuat video. Silahkan cek link dan coba lagi."
+    , "error__input": "Link yang dimasukkan tidak berlaku. Silahkan cek link dan coba lagi."
+    , "download__button_text": "Unduh"
+    , "options__title": "Video"
+    , "exception__429": "Terlalu banyak permintaan. Coba lagi dalam 5 detik."
+
+}
