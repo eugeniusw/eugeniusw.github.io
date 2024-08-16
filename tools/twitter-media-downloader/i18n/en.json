@@ -2,6 +2,8 @@
     "error__loading_video": "Failed to load videos. Please check the URL and try again."
     , "error__input": "Input URL is not valid. Please check the URL and try again."
     , "download__button_text": "Download"
-    , "options__title": "Video"
+    , "options__title": "Media"
     , "exception__429": "Too many requests. Please try again in 5 seconds."
+    , "exception__404": "Unable to find the media you requested."
+    
 }
