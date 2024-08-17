@@ -1,6 +1,6 @@
 {
-    "error__loading_video": "Failed to load videos. Please check the URL and try again."
-    , "error__input": "Input URL is not valid. Please check the URL and try again."
+    "error__loading_video": "Failed to load videos. Please check the link and try again."
+    , "error__input": "Tweet link is not valid. Please check the link and try again."
     , "download__button_text": "Download"
     , "options__title": "Media"
     , "exception__429": "Too many requests. Please try again in 5 seconds."
