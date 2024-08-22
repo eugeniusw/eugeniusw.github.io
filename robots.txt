@@ -50,6 +50,22 @@ Disallow: /id/release-notes/
 Disallow: /id/categories/release-note*
 Disallow: /id/tags/release-note*
 
+User-agent: facebookexternalhit
+Disallow: /release-notes/
+Disallow: /categories/release-note*
+Disallow: /tags/release-note*
+Disallow: /id/release-notes/
+Disallow: /id/categories/release-note*
+Disallow: /id/tags/release-note*
+
+User-agent: Twitterbot
+Disallow: /release-notes/
+Disallow: /categories/release-note*
+Disallow: /tags/release-note*
+Disallow: /id/release-notes/
+Disallow: /id/categories/release-note*
+Disallow: /id/tags/release-note*
+
 User-agent: *
 Disallow: /
 
